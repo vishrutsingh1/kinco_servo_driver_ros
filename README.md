@@ -10,3 +10,6 @@ User need to set
 3) gear_reduction_ratio
 
 Note: communication is over RS232 reserved port of driver.
+
+
+![kinco_driver](https://github.com/user-attachments/assets/5bfa0356-ff85-40b5-bca8-07a4b5054eec)
