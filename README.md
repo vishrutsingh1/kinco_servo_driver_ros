@@ -8,6 +8,7 @@ User need to set
 1) robot_base_width
 2) robot_wheel_radius
 3) gear_reduction_ratio
+4) usb_port name
 
 Note: communication is over RS232 reserved port of driver.
 
